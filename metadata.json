@@ -1,0 +1,6 @@
+{
+  "name": "AR SPORTS",
+  "description": "Premium Soft Glass live sports video streaming application with native ExoPlayer and ad-bypassed streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

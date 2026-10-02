@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AR SPORTS</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_live">Live</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="live_badge">LIVE</string>
+    <string name="watch_live">WATCH LIVE</string>
+    <string name="go_live">GO LIVE</string>
+    <string name="loading_stream">Connecting to live stream…</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="stream_unavailable">Stream Unavailable</string>
+    <string name="retry">Retry</string>
+    <string name="go_back">Go Back</string>
+</resources>
